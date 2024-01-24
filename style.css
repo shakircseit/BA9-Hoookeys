@@ -3,3 +3,7 @@
 .font-manrope{
     font-family: 'Manrope', sans-serif;
 }
+textarea::placeholder {
+    color: #999; 
+    font-style: normal; 
+}
